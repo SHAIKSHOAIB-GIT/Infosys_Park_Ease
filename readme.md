@@ -1,17 +1,28 @@
 # 🅿️ Park Ease – Smart Parking Management System
+**(Group Project | My Role: AWS Deployment & Backend Persistence)**
 
 **project demo link**
 
 ```
-https://www.youtube.com/watch?v=QkjYBcf5kv0
+http://13.233.119.98:8080/auth.html
 ```
 
 **Spring Boot Internship Project**
 
 Park Ease is a **production-grade Smart Parking Management System** built using **Spring Boot 3**, designed to simulate real-world urban parking operations.
 It digitizes the complete parking lifecycle—from **remote booking** to **cashless exit**—while supporting **multiple roles**, **dynamic pricing**, **wallet-based payments**, **real-time updates**, **analytics**, and **audit-grade reporting**.
+This project was developed as a group internship project, where each member owned a specific technical area.
 
 ---
+## My Role & Responsibilities
+- Cloud Deployment (AWS)
+- Deployed the backend application on AWS EC2 (Ubuntu).
+- Installed, configured, and Managed security groups.
+- Built and deployed the Spring Boot JAR on EC2.
+- Ran the application as a persistent background service (nohup).
+  
+**Hibernate / JPA & Database Integration**
+- Configured Hibernate + Spring Data JPA with MySQL.
 
 ## 📌 Project Highlights
 
