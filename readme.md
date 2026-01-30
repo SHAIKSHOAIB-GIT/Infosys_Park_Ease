@@ -4,7 +4,7 @@
 **project demo link**
 
 ```
-http://13.233.119.98:8080/auth.html
+http://52.66.240.126:8080/auth.html
 ```
 
 **Spring Boot Internship Project**
